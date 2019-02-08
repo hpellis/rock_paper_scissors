@@ -1,0 +1,128 @@
+/*overall*/
+img {
+  max-width: 100%;
+}
+
+body {
+  background-color: #311847;
+}
+
+/*typography*/
+h1 {
+  padding-top: 50px;
+  color: #EF5D60;
+  font-family: 'Raleway Dots', cursive;
+}
+
+h1 #small {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-family: 'Autour One', cursive;
+  padding-left: 20px;
+}
+
+#title1 {
+  font-size: 60px;
+  padding-left: 20px;
+  line-height:
+}
+
+#title2 {
+  font-size: 60px;
+}
+
+#title3 {
+  font-size: 60px;
+  padding-left: 70px;
+}
+
+h2 {
+  color: #EF5D60;
+  font-family: 'Autour One', cursive;
+}
+
+p {
+  color: #EF5D60;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: 'Raleway Dots', cursive;
+  font-weight: bold;
+}
+
+/*spacing*/
+#moveheading {
+  padding-top: 70px;
+}
+
+#currentheading {
+  padding-top: 40px;
+}
+
+#resultheading {
+  padding-top: 30px;
+}
+
+#tallyheading {
+  padding-top: 40px;
+}
+
+#imagehand8 {
+  padding-top: 30px;
+}
+
+#tally {
+  padding-top: 20px;
+}
+
+.col-md-3 {
+  padding-top: 20px;
+}
+
+#currentgame {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#result {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#tally {
+  text-align: center;
+}
+
+/*buttons*/
+buttons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+#buttons {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  background-color: #EC4067;
+  border: 3px dotted #E09F7D;
+  color: white;
+  padding: 10px 10px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Raleway Dots', cursive;
+}
+
+.color {
+  background-color: #E09F7D;
+  color: #A01A7D;
+  font-style: italic;
+  font-weight: bold;
+}
